@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background: url(light-texture.png);
+    background-size: cover;
+}
+
+div.box{
+    margin:0 auto;
+    width: 300px;
+    border-bottom: 4px dotted blue;
+    border: 2px solid red;
+    background-color: #FDFEFE;
+}
+
+
+table th{
+    font-size: 1.5em;
+    width: 350px;
+    background: linear-gradient(#ff0000,#ffffff);
+    font-family: 'Coiny', cursive;
+}
+
+tr{
+    padding: 0;
+    margin: 0;
+}
+
+tr td.task{
+    font-family: 'Noto Sans', sans-serif;
+}
